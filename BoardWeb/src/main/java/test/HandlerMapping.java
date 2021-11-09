@@ -7,9 +7,9 @@ import com.mirim.view.board.DeleteBoardController;
 import com.mirim.view.board.GetBoardController;
 import com.mirim.view.board.GetBoardListController;
 import com.mirim.view.board.InsertBoardController;
-import com.mirim.view.board.LogoutController;
 import com.mirim.view.board.UpdateBoardController;
 import com.mirim.view.user.LoginController;
+import com.mirim.view.user.LogoutController;
 
 public class HandlerMapping {
 	private Map <String, Controller> mappings;
